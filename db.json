@@ -1,0 +1,97 @@
+{
+	"users" : [
+		{
+			"id" : "testuser1",
+			"firstName" : "Test",
+			"middleName" : "1",
+			"lastName" : "User",
+			"userKey" : "abc00100234"			
+		}
+	],
+	"savingaccount" : [
+		{
+			"userKey" : "abc00100234",
+			"accountNo" : "1938473628",
+			"balanceAmount" : 231000.00
+		}
+	],
+	"currentaccount" : [
+		{
+			"userKey" : "abc00100234",
+			"accountNo" : "8734263628",
+			"balanceAmount" : 156000.00
+		}
+	],
+	"fixeddeposit" : [
+		{
+			"userKey" : "abc00100234",
+			"accountNo" : "3613489460",
+			"balanceAmount" : 231000.00,
+			"roi" : 7.25,
+			"depositedOn" : 1555090779062,
+			"maturityOn" : 1575990779062
+		}
+	],
+	"recurringdeposit" : [
+		{
+			"userKey" : "abc00100234",
+			"accountNo" : "3613489460",
+			"balanceAmount" : 231000.00,
+			"roi" : 7.25,
+			"depositedOn" : 1555090779062,
+			"maturityOn" : 1575990779062
+		}
+	],
+	"homeloan" : [
+		{
+			"userKey" : "abc00100234",
+			"accountNo" : "3613489460",
+			"loanAmount" : 2500000,
+    		"balanceAmount" : 210000,
+    		"roi" : 10.5,
+    		"disbursedOn": 1553090779062,
+    		"nextEMIDate": 1556090779062,
+    		"remainingEMIs": 113
+		}
+	],
+	"carloan" : [
+		{
+			"userKey" : "abc00100234",
+			"accountNo" : "3613489460",
+			"loanAmount" : 2500000,
+    		"balanceAmount" : 210000,
+    		"roi" : 10.5,
+    		"disbursedOn": 1553090779062,
+    		"nextEMIDate": 1556090779062,
+    		"remainingEMIs": 113
+		}
+	],
+	"personalloan" : [
+		{
+			"userKey" : "abc00100234",
+			"accountNo" : "3613489460",
+			"loanAmount" : 2500000,
+    		"balanceAmount" : 210000,
+    		"roi" : 10.5,
+    		"disbursedOn": 1553090779062,
+    		"nextEMIDate": 1556090779062,
+    		"remainingEMIs": 113
+		}
+	],
+	"creditcard" : [
+		{
+			"userKey" : "abc00100234",
+			"cardNo" : "4231008911129899",
+    		"lastStatementAmount" : 23191.09,
+    		"outstandingAmount": 43200.43,
+    		"minimumDueAmount": 2310.00,
+    		"availableCreditLimit": 156000.00,
+    		"availableCashLimit" : 50000.00,
+    		"totalCreditLimit": 200000.00,
+    		"cashLimitAmount" : 50000.00,
+    		"paymentDueOn": 1556090779062,
+    		"lastStatementOn": 1554090779062
+		}
+	]
+
+}
