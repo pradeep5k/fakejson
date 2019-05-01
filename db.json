@@ -5,6 +5,8 @@
 			"firstName" : "Test",
 			"middleName" : "1",
 			"lastName" : "User",
+			"emailId": "testuser@gmail.com",
+    		"profilePic": "https://avatars0.githubusercontent.com/u/7310699?s=460&v=4",
 			"userKey" : "abc00100234"			
 		}
 	],
