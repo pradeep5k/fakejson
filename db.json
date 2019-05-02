@@ -32,10 +32,11 @@
 			"userKey" : "abc00100234",
 			"accountNo" : "3613489460",
 			"loanAmount" : 2500000,
+			"EMIAmount" : 25000,
     		"balanceAmount" : 210000,
     		"roi" : 10.5,
     		"disbursedOn": 1553090779062,
-    		"nextEMIDate": 1556090779062,
+    		"nextEMIon": 1556090779062,
     		"remainingEMIs": 113
 		}
 	],
